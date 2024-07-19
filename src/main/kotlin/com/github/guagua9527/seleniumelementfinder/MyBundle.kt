@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.guagua9527.seleniumelementfinder
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
